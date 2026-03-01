@@ -18,7 +18,7 @@ It's a play on my name and C++, but it represents a lot more. It's about my pass
 ## 🔭 I’m currently working on
 • Access-IQ — an end-to-end analytics platform exploring ingestion, transformation, orchestration, data quality, and visualisation.<br>• Strengthening CI/CD and validation patterns for data pipelines<br>• Deepening my knowledge of machine learning systems and modern ML workflows.
 ## 🤝 I’m open to
-• Senior Data / Platform Engineering roles<br>• Building reliable analytics infrastructure<br>• Remote & distributed teams<br>• Contract or long-term opportunities
+• Senior Data / Platform Engineering roles<br>• Developer-facing data tooling & analytics systems<br>• Remote & distributed teams<br>• Contract or long-term opportunities
 ## 🌱 Ask me about
 • Modern data stack architecture<br>• Scaling analytics systems safely<br>• CI in data workflows<br>• Women in tech & mentorship<br>• Balancing tech with life outside of it
 ## ⚡ Fun fact
