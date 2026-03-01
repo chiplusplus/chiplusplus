@@ -4,7 +4,7 @@ My name is Chia(maka).<br>
 ☁️ AWS-heavy background (EMR, Redshift, Airflow, CDK) with a strong focus on CI/CD, validation & reliability<br>
 🔨 Currently building Access-IQ — an end-to-end analytics platform exploring ingestion, transformation, orchestration, data quality, and reporting<br>
 👩‍🎓 Exploring ML systems and production-focused machine learning
-### 🕵️‍♀️ Why chiplusplus?
+### Why chiplusplus?
 It's a play on my name and C++, but it represents a lot more. It's about my passion for growth and belief in compunding improvement. It's about doing more - learning more, building more and constantly raising the bar. Build beyond what is expected. 
 
 # Tech Stack:
