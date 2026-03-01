@@ -1,5 +1,5 @@
 # Hi, it's lovely to meet you
-My name is Chia(maka).
+My name is Chia(maka).<br>
 🚀 A Data Platform Engineer building scalable analytics systems (5B+ daily events)<br>
 ☁️ AWS-heavy background (EMR, Redshift, Airflow, CDK) with a strong focus on CI/CD, validation & reliability<br>
 🔨 Currently building Access-IQ — an end-to-end analytics platform exploring ingestion, transformation, orchestration, data quality, and reporting<br>
