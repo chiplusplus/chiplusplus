@@ -22,6 +22,6 @@ It's a play on my name and C++, but it represents a lot more. It's about my pass
 ## 🌱 Ask me about
 • Modern data stack architecture<br>• Scaling analytics systems safely<br>• CI in data workflows<br>• Women in tech & mentorship<br>• Balancing tech with life outside of it
 ## ⚡ Fun fact
-Currently training for a half marathon - I like long runs and long pipelines.
+Actualmente estoy aprendiendo español, et ensuite me gustaría aprender francés. Ọ bụkwa m chọrọ ịmụta Igbo iji jikọọ ya na mgbọrọgwụ m!
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
